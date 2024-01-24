@@ -41,7 +41,7 @@ Discover the *Ultimate Mac Apps Bundle* — a thoughtfully curated collection ta
 11. **[OnyX](https://www.titanium-software.fr/en/onyx.html)**
     - Maintenance and optimization tool for macOS.
 
-12. **[Memory Cleaner](https://nektony.com/mac-app-cleaner)**
+12. **[Memory Cleaner](https://nektony.com/memory-cleaner)**
     - Tool for optimizing and managing system memory.
 
 ### Media and Entertainment:
@@ -54,5 +54,5 @@ Discover the *Ultimate Mac Apps Bundle* — a thoughtfully curated collection ta
 14. **[1Password](https://1password.com/)**
     - Password manager for secure logins.
 
-15. **[AppCleaner](https://freemacsoft.net/appcleaner/)**
+15. **[App Eraser](https://github.com/davunt/app-eraser)**
     - Uninstall utility to remove apps and their associated files.
