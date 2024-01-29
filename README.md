@@ -56,3 +56,17 @@ Discover the *Ultimate Mac Apps Bundle* — a thoughtfully curated collection ta
 
 15. **[App Eraser](https://github.com/davunt/app-eraser)**
     - Uninstall utility to remove apps and their associated files.
+   
+### Note taking
+16. **[Joplin](https://joplinapp.org/)**
+    - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
+
+17. **[Logseq](https://logseq.com/)**
+    - Logseq is a local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
+
+18. **[Notion](https://logseq.com/])**
+    - The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+
+
+
